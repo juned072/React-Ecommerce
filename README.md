@@ -1,6 +1,6 @@
 ## Ecommerce App
 
-This repository contains the source code for an Ecommerce web application built using React.js and Redux toolkit. The application allows users to browse products, add them to a shopping cart, and proceed to checkout. Here's an overview of the project structure and functionalities:
+This ecommerce is not a real time working project. This repository contains the source code for an Ecommerce web application built using React.js and Redux toolkit. The application allows users to browse products, add them to a shopping cart, and proceed to checkout. Here's an overview of the project structure and functionalities:
 
 ### Project Structure
 
@@ -33,7 +33,7 @@ This repository contains the source code for an Ecommerce web application built 
 
 ### Setup Instructions
 
-1. Clone the repository: `git clone [repository URL]`
+1. Clone the repository: `https://github.com/juned072/React-Ecommerce.git`
 2. Navigate to the project directory: `cd ecommerce-app`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
